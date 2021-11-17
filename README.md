@@ -1,2 +1,4 @@
-"# todo-list-react-native" 
-"# todoList" 
+
+"# todoList"
+
+to start use expo start command
