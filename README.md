@@ -1,7 +1,7 @@
 
 "# todoList"
 
-open terminal
+open terminal and do this commands
 
 expo start
 
