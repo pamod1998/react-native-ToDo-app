@@ -1,4 +1,10 @@
 
 "# todoList"
 
-to start use expo start command
+open terminal
+
+expo start
+
+npm run android for android device
+
+npm ios for ios device
