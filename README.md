@@ -17,6 +17,7 @@ expo start
 
 ```
 Press a │ open Android
+Run on andorid or ios emulator
 Press r │ reload app
 ```
 
