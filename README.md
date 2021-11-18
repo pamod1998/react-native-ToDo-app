@@ -16,7 +16,7 @@ expo start
 2. Start the device
 
 ```
-npm run android
-npm ios
+Press a │ open Android
+Press r │ reload app
 ```
 
