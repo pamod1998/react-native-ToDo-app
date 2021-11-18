@@ -1,10 +1,22 @@
+# react-native-todo-app
 
-"# todoList"
+## Prerequisites
+- Node
+- npm/yarn
 
-open terminal and do this commands
+## How to start
+Fork the project download the code open your favorite IDE
 
+1. Open terminal type command
+
+``` 
 expo start
+```
 
-npm run android for android device
+2. Start the device
 
-npm ios for ios device
+```
+npm run android
+npm ios
+```
+
